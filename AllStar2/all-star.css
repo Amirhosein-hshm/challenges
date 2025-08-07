@@ -39,7 +39,9 @@ body {
 
 .info:link,
 .info:visited {
-  color: #000000;
+  color: #000;
+  margin-bottom: 30px;
+  display: inline-block;
 }
 
 .info:hover,
